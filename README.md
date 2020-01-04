@@ -1,6 +1,7 @@
-# cQED_collective_emission
+# Supplementary Material for "Quasiclassical Modeling of Cavity Quantum Electrodynamics"
 
-Folder Simulation/ saves code and raw data for publication: https://arxiv.org/abs/1910.02299.
+
+Folder Simulation/ saves code and raw data for publication: Quasiclassical Modeling of Cavity Quantum Electrodynamics https://arxiv.org/abs/1910.02299.
 
 ## Simulation/src/ 
 
