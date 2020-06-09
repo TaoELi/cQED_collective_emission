@@ -1,13 +1,14 @@
 # Supplementary Material for "Quasiclassical Modeling of Cavity Quantum Electrodynamics"
 
 
-Folder Simulation/ saves code and raw data for publication: Quasiclassical Modeling of Cavity Quantum Electrodynamics https://arxiv.org/abs/1910.02299.
+Folder Simulation/ saves code and raw data for the publication: 
+Li, T. E., Chen, H.-T., Nitzan, A., & Subotnik, J. E. (2020). Quasiclassical modeling of cavity quantum electrodynamics. Physical Review A, 101(3), 033831. https://doi.org/10.1103/PhysRevA.101.033831 (unpaid arXiv version: https://arxiv.org/abs/1910.02299).
 
 ## Simulation/src/ 
 
-- mmst_solver.cpp: MMST dynamics for N two-level systems (TLSs) interact with a multimode cavity.
+- mmst_solver.cpp: MMST dynamics for N two-level systems (TLSs) interacting with a multimode cavity.
 
-- qed_solver.cpp: Quantum dynamics for N TLSs interact with a multimode cavity within the singly excited manifold (i.e., configurational interaction singles).
+- qed_solver.cpp: Quantum dynamics for N TLSs interacting with a multimode cavity within the singly excited manifold (i.e., configurational interaction singles).
 
 - parameters.hpp: usr defined parameters for the above two methods.
 
